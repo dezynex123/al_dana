@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "category_id": "",
+            "name": "string",
+            "price": 123.4,
+            "image": "string"
+        }
+    ]
+}

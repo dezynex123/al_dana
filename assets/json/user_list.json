@@ -1,0 +1,123 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "Peter Park",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "admin",
+            "status": true
+        },
+        {
+            "id": "1",
+            "name": "Harps Joseph",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "manager",
+            "status": true
+        },
+        {
+            "id": "2",
+            "name": "Henry Mark",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "manager",
+            "status": true
+        },
+        {
+            "id": "3",
+            "name": "Mark John",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "manager",
+            "status": true
+        },
+        {
+            "id": "4",
+            "name": "Joseph Mathew",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "manager",
+            "status": true
+        },
+        {
+            "id": "1",
+            "name": "Harps Joseph",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "technician",
+            "status": true
+        },
+        {
+            "id": "2",
+            "name": "Henry Mark",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "technician",
+            "status": true
+        },
+        {
+            "id": "3",
+            "name": "Mark John",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "technician",
+            "status": true
+        },
+        {
+            "id": "4",
+            "name": "Joseph Mathew",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "technician",
+            "status": true
+        },
+        {
+            "id": "1",
+            "name": "Harps Joseph",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "customer",
+            "status": true
+        },
+        {
+            "id": "2",
+            "name": "Henry Mark",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "customer",
+            "status": true
+        },
+        {
+            "id": "3",
+            "name": "Mark John",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "customer",
+            "status": true
+        },
+        {
+            "id": "4",
+            "name": "Joseph Mathew",
+            "mobile": 918281978039,
+            "email": "amalmohanan655@gmail.com",
+            "image": "",
+            "scope": "customer",
+            "status": true
+        }
+    ]
+}

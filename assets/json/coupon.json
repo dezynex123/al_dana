@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "_id": "6433a7426544acb28f5819bc",
+            "couponCode": "al-dana-offer",
+            "discountAmount": 50,
+            "couponType": "Special",
+            "amount": 1000,
+            "startDate": "2023-03-02T18:30:00.000Z",
+            "endDate": "2023-04-02T18:30:00.000Z",
+            "deletable": false,
+            "createdAt": "2023-04-10T06:05:54.720Z",
+            "updatedAt": "2023-04-10T06:05:54.720Z",
+            "__v": 0
+        }
+    ]
+}

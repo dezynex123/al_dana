@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "_id": "642beae38eba0d1e5a129f89",
+            "image": "/api/v1/users/image_1680599779270.webp",
+            "branchId": "642a8301ecb9ec87f94b9d36",
+            "deletable": false,
+            "createdAt": "2023-04-04T09:16:19.409Z",
+            "updatedAt": "2023-04-04T09:16:19.409Z",
+            "__v": 0
+        },
+        {
+            "_id": "642beaec8eba0d1e5a129f8f",
+            "image": "/api/v1/users/image_1680599788375.webp",
+            "branchId": "642a8301ecb9ec87f94b9d36",
+            "deletable": false,
+            "createdAt": "2023-04-04T09:16:28.448Z",
+            "updatedAt": "2023-04-04T09:16:28.448Z",
+            "__v": 0
+        },
+        {
+            "_id": "642beafc8eba0d1e5a129f95",
+            "image": "/api/v1/users/image_1680599804276.webp",
+            "branchId": "642a8301ecb9ec87f94b9d36",
+            "deletable": false,
+            "createdAt": "2023-04-04T09:16:44.334Z",
+            "updatedAt": "2023-04-04T09:16:44.334Z",
+            "__v": 0
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "Battery",
+            "image": "assets/images/img_brand_1.png",
+            "spare": [
+                {
+                    "id": "1",
+                    "category_id": "1",
+                    "name": "Exide Matrix",
+                    "price": 97.4,
+                    "image": "assets/images/img_brand_1.png",
+                    "quantity":40
+                },
+                {
+                    "id": "2",
+                    "category_id": "1",
+                    "name": "Optima RedTop",
+                    "price": 105.4,
+                    "image": "assets/images/img_brand_1.png",
+                    "quantity":33
+                },
+                {
+                    "id": "3",
+                    "category_id": "1",
+                    "name": "DieHard Platinum AGM",
+                    "price": 110.4,
+                    "image": "assets/images/img_brand_1.png",
+                    "quantity":32
+                },
+                {
+                    "id": "4",
+                    "category_id": "1",
+                    "name": "ACDelco Gold",
+                    "price": 120.4,
+                    "image": "assets/images/img_brand_1.png",
+                    "quantity":38
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Oil",
+            "image": "assets/images/img_brand_2.png",
+            "spare": [
+                {
+                    "id": "1",
+                    "category_id": "2",
+                    "name": "Castrol GTX",
+                    "price": 97.4,
+                    "image": "assets/images/img_brand_2.png",
+                    "quantity":31
+                },
+                {
+                    "id": "2",
+                    "category_id": "2",
+                    "name": "Pennzoil Ultra Platinum",
+                    "price": 94.4,
+                    "image": "assets/images/img_brand_2.png",
+                    "quantity":36
+                },
+                {
+                    "id": "3",
+                    "category_id": "2",
+                    "name": "Amsoil Signature",
+                    "price": 90.4,
+                    "image": "assets/images/img_brand_2.png",
+                    "quantity":14
+                }
+            ]
+        }
+    ]
+}

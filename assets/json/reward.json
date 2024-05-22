@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "message": "",
+    "data": {
+        "deletable": false,
+        "_id": "642ff484c0907d1c5a3e5d45",
+        "customerId": "642ad45c0a02caa348872001",
+        "rewardPoint": 50
+    }
+}

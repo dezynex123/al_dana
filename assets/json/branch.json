@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "Al Dana Station 1",
+            "location": "Ras Al Khaimah",
+            "latitude": 8.5908657,
+            "longitude": 76.8505975,
+            "image": "assets/images/img_branch_1.png",
+            "rating": 4.3,
+            "distance": 6.0
+        },
+        {
+            "id": "2",
+            "name": "Al Dana Station 2",
+            "location": "Ras Al Khaimah",
+            "latitude": 8.5714731,
+            "longitude": 76.8979696,
+            "image": "assets/images/img_branch_1.png",
+            "rating": 4.2,
+            "distance": 8.2
+        },
+        {
+            "id": "3",
+            "name": "Al Dana Station 3",
+            "location": "Ras Al Khaimah",
+            "latitude": 8.5678277,
+            "longitude": 76.8929361,
+            "image": "assets/images/img_branch_1.png",
+            "rating": 4.1,
+            "distance": 12.2
+        }
+    ]
+}

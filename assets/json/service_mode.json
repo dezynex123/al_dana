@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "title": "DOORSTEP",
+            "desc": "In publishing and graphic design of car wash",
+            "bg_card_color": "#FF3868"
+        },
+        {
+            "id": "2",
+            "title": "DRIVE-THRU",
+            "desc": "In publishing and graphic design of car wash",
+            "bg_card_color": "#06D39E"
+        },
+        {
+            "id": "3",
+            "title": "PICK UP & DROP",
+            "desc": "In publishing and graphic design of car wash",
+            "bg_card_color": "#118AB2"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "Blue",
+            "code": "#424C9C"
+        },
+        {
+            "id": "2",
+            "name": "Black",
+            "code": "#292525"
+        },
+        {
+            "id": "3",
+            "name": "White",
+            "code": "#FFFFFF"
+        },
+        {
+            "id": "4",
+            "name": "Yellow",
+            "code": "#FDC911"
+        },
+        {
+            "id": "5",
+            "name": "Red",
+            "code": "#AE1E3A"
+        },
+        {
+            "id": "6",
+            "name": "Green",
+            "code": "#1F6543"
+        },
+        {
+            "id": "7",
+            "name": "Pink",
+            "code": "#A72973"
+        },
+        {
+            "id": "8",
+            "name": "Blue",
+            "code": "#3C8AFF"
+        },
+        {
+            "id": "9",
+            "name": "Rose",
+            "code": "#FF0031"
+        },
+        {
+            "id": "10",
+            "name": "Green",
+            "code": "#037C68"
+        }
+
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "message": "",
+    "data": {
+        "id": "string",
+        "name": "string",
+        "mobile": 1234,
+        "email": "string",
+        "image": "string",
+        "scope": "string",
+        "status": true
+    }
+}

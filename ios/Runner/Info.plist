@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ITSAppUsesNonExemptEncryption</key>
+		<false/>
+		<key>NSCameraUsageDescription</key>
+		<string>To add and update vehicle images and profile pictures, the app needs access to your camera for capturing photos.</string>
+
+		<key>NSAppleMusicUsageDescription</key>
+		<string>Access to pick a photo</string>
+
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>To select and upload images for vehicles and profile pictures, the app requires access to your photo library.</string>
+
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Book services conveniently by enabling location access. Locate nearby branches for seamless online service bookings.</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>Effortlessly book services online from any service station branch. Enable location access for real-time availability and quick appointments.</string>
+		<!-- <key>NSLocationWhenInUseUsageDescription</key>
+		<string>Book services conveniently by enabling location access. Locate nearby branches for seamless online service bookings.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Continuous location access ensures you can easily find and book services at any nearby branch, enhancing your online booking experience.</string> -->
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+		<true />
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleDisplayName</key>
+		<string>Al Dana</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>Al-Dana</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>$(FLUTTER_BUILD_NUMBER)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true />
+		<key>UIBackgroundModes</key>
+		<array>
+			<!-- <string>fetch</string>
+			<string>location</string> -->
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false />
+		<key>UIApplicationSupportsIndirectInputEvents</key>
+		<true />
+	</dict>
+</plist>

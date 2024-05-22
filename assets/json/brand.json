@@ -1,0 +1,177 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "Abarth",
+            "image": "assets/images/img_brand_1.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Alfa Romeo",
+            "image": "assets/images/img_brand_2.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Acura",
+            "image": "assets/images/img_brand_3.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Abarth",
+            "image": "assets/images/img_brand_1.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Alfa Romeo",
+            "image": "assets/images/img_brand_2.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Acura",
+            "image": "assets/images/img_brand_3.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Abarth",
+            "image": "assets/images/img_brand_1.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Alfa Romeo",
+            "image": "assets/images/img_brand_2.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Acura",
+            "image": "assets/images/img_brand_3.png",
+            "variant": [
+                {
+                    "id": "1",
+                    "name": "Model X"
+                },
+                {
+                    "id": "2",
+                    "name": "Model Y"
+                },
+                {
+                    "id": "3",
+                    "name": "Model Z"
+                }
+            ]
+        }
+    ]
+}

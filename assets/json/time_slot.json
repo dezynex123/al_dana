@@ -1,0 +1,100 @@
+{
+    "status": "success",
+    "message": "",
+    "data": [
+        {
+            "id": "1",
+            "day": "Monday",
+            "slotes": [
+                "10 am - 11 am",
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm",
+                "3 pm - 4 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "2",
+            "day": "Tuesday",
+            "slotes": [
+                "10 am - 11 am",
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm",
+                "3 pm - 4 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "3",
+            "day": "Wednesday",
+            "slotes": [
+                "10 am - 11 am",
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm",
+                "3 pm - 4 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "4",
+            "day": "Thursday",
+            "slotes": [
+                "10 am - 11 am",
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm",
+                "3 pm - 4 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "5",
+            "day": "Friday",
+            "slotes": [
+                "10 am - 11 am",
+                "11 am - 12 am",
+                "3 pm - 4 pm",
+                "4 pm - 5 pm"
+                
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "6",
+            "day": "Saturday",
+            "slotes": [
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        },
+        {
+            "id": "7",
+            "day": "Sunday",
+            "slotes": [
+                "11 am - 12 am",
+                "1 pm - 2 am",
+                "2 pm - 3 pm"
+            ],
+            "status": true,
+            "created_by": "62fddd48f8537d3b2a2b93bc",
+            "created_at": "2022-09-21T04:28:20.470Z"
+        }
+    ]
+}
